@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter & React**
 
-- 📝 checkout my website [hassen.dev](hassen.dev)
+- 📝 checkout my website [hassen.dev](https://www.hassen.dev)
 
 
 <p align="left">
