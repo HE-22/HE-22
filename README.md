@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassen</h1>
+<h1 align="center">What's up 👋, I'm Hassen</h1>
 <h3 align="center">Passionate in AI driven development</h3>
 
 - 🔭 I’m currently working on **anything related to Chatgpt/Openai**
