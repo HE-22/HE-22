@@ -1,4 +1,6 @@
-<h1 align="center">What's up 👋, I'm Hassen</h1>
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+<h1 align="center">I'm Hassen</h1>
 <h3 align="center">Passionate in AI driven development</h3>
 
 - 🔭 I’m currently working on **anything related to Chatgpt/Openai**
